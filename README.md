@@ -13,3 +13,6 @@ Lastly you should give the number of ascii characters that will be used in this 
 Remember that if you give too many charaters or the resolution larger that the picture, the end result might not be possible, so try out other combinations.
 
 Have Fun!
+
+## Screenshots
+
