@@ -1,3 +1,5 @@
+## Description
+
 Converts .jpg images to text pictures
 
 ## Guide
