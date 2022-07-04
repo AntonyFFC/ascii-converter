@@ -16,3 +16,6 @@ Have Fun!
 
 ## Screenshots
 
+![dog](https://raw.githubusercontent.com/AntonyFFC/ascii-converter/main/screenshots/daaf.jpg)
+
+![monalisa](https://raw.githubusercontent.com/AntonyFFC/ascii-converter/main/screenshots/ada.jpg)
